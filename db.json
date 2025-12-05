@@ -2,14 +2,14 @@
   "projects": [
     {
       "title": "Detector-Redactor",
-      "image": "Assets/detector_redeactor.gif",
+      "image": "https://cse134b-hw5-dsw.pages.dev/Assets/detector_redeactor.gif",
       "alt": "PII detection system",
       "description": "A Python tool for <b>PII detection</b>",
       "link": "https://github.com/MgMap/Detector-Redactor"
     },
     {
       "title": "PayRoll Manager",
-      "image": "Assets/pay_roll_manager.gif",
+      "image": "https://cse134b-hw5-dsw.pages.dev/Assets/pay_roll_manager.gif",
       "alt": "Payroll system",
       "description": "A <b>payroll management</b> program",
       "link": "https://github.com/MgMap/PayRoll-Manager"
